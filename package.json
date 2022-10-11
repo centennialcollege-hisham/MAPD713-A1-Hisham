@@ -1,6 +1,12 @@
 {
-  "name": "MAPD713-A1-HishamAbuSanimeh",
+  "name": "MAPD713 - A1 - HishamAbuSanimeh",
   "version": "1.0.0",
+  "description": "Assigment 2 - REST API - images",
+  "author": "Hisham Abu Sanimeh",
+  "private": true,
+  "main": "index.js",
   "dependencies": {
+    "restify": "^4.3.4",
+    "save": "2.3.0"
   }
 }
